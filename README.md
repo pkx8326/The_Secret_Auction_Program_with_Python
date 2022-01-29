@@ -1,0 +1,2 @@
+# The_Secret_Auction_Program_with_Python
+This simple program 'secretly' takes names and bidding values from each bidder and announce the auction winner after the user declare that there's no more next bidder. This program makes use of dictionary, for-loop, and simple comparison algorithm to get the information about the highest bidder. In the end, the name and the bidding value of the highest bidder will be displayed.
